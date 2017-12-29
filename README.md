@@ -1,7 +1,7 @@
 ### Moderation Guidelines
 
 This repository includes moderation guidelines for each contribution
-category on [Utopian](https://utopian.io)*.
+category on [Utopian](https://utopian.io).
 
 ##### General Rules
 
