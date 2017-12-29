@@ -46,6 +46,7 @@ We use that button if contribution is not good enough to get an instant approval
 
 **Note**: After pending the review, make sure you edit your entry on #i-am-on-it channel in our Discord. Edit the entry includes the contribution, add a *"pending"* word to the beginning.
 
+**Note**: Authors have 48 hours to fix/improve their post. If they don't do anything in 48 hours, you can hide the contribution.
 
 <img src="https://i.hizliresim.com/a1V6A7.png">
 
