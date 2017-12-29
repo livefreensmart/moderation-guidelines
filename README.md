@@ -8,26 +8,26 @@ category on [Utopian](https://utopian.io).
 #### General Rules
 
 There are things to consider which applies to all categories. Before reading the categories
-you work with, make sure you read the [General Rules](#) first.
+you work with, make sure you read the [General Rules](https://github.com/utopian-io/moderation-guidelines/blob/master/general.md) first.
 
 
 #### Categories
 
 
-1. [Suggestions](#)
-2. [Task Requests](#)
-3. [Development](#)
-4. [Bug Hunting](#)
-5. [Translation](#)
-6. [Graphics](#)
-7. [Analysis](#)
-8. [Visibility](#)
-9. [Documentation](#)
-10. [Tutorials](#)
-11. [Video Tutorials](#)
-12. [Copywriting](#)
-13. [Blog Posts](#)
-14. [Sub Projects](#)
+1. [Suggestions](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/suggestions.md)
+2. [Task Requests](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/task-requests.md)
+3. [Development](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/development.md)
+4. [Bug Hunting](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/bug-hunting.md)
+5. [Translation](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/translation.md)
+6. [Graphics](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/graphics.md)
+7. [Analysis](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/analysis.md)
+8. [Visibility](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/visibility.md)
+9. [Documentation](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/documentation.md)
+10. [Tutorials](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/tutorials.md)
+11. [Video Tutorials](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/video-tutorials.md)
+12. [Copywriting](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/copy-writing.md)
+13. [Blog Posts](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/blog-posts.md)
+14. [Sub Projects](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/sub-projects.md)
 
 #### Contributing to Guidelines
 
