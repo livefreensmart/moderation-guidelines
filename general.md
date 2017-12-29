@@ -15,7 +15,7 @@ Before reading and reviewing the post, add the contribution link to ```#i-am-on-
 
 <img src="https://i.hizliresim.com/POygGd.png">
 
-**Important**: That step is required for us to prevent race condition between moderetors reviewing the same contribution. Also, before starting review on a contribution, have a look to that channel if some other moderator working on it or not.
+**Important**: That step is required for us to prevent race condition between moderators, reviewing the same contribution. Also, before starting review on a contribution, have a look to that channel if some other moderator working on it or not.
 
 
 #### Moderation Panel
