@@ -3,7 +3,7 @@
 This repository includes moderation guidelines for each contribution
 category on [Utopian](https://utopian.io).
 
-##### General Rules
+#### General Rules
 
 There are things to consider which applies to all categories. Before reading the categories
 you work with, make sure you read the [General Rules](#) first.
