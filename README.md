@@ -5,11 +5,9 @@
 This repository includes moderation guidelines for each contribution
 category on [Utopian](https://utopian.io).
 
-#### General Rules
+#### Moderation Workflow
 
-There are things to consider which applies to all categories. Before reading the categories
-you work with, make sure you read the [General Rules](https://github.com/utopian-io/moderation-guidelines/blob/master/general.md) first.
-
+See [Moderation Workflow](https://github.com/utopian-io/moderation-guidelines/blob/master/general.md).
 
 #### Categories
 
