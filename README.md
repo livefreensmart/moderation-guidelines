@@ -13,10 +13,6 @@ you work with, make sure you read the [General Rules](#) first.
 
 #### Categories
 
-Since we have recently switched a soft seperation on categories, You will 
--mostly- review 2-3 categories.
-
-Please, read the each guideline on assigned categories.
 
 1. [Suggestions](#)
 2. [Task Requests](#)
