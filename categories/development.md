@@ -4,7 +4,7 @@
 
 ## General
 
-The development category is very formal and the quality and added value of the actual programming work is the important factor. New projects must have a unique character. Textbook examples and generic scripts, that already exist in big numbers, can't be approved. Contributions to existing projects must be merged, and thereby veryfied by the project maintainer, before submitting them on Utopian. Contributed code should always meet modern quality standards if applicable. As a moderator you need a decent understanding of such stanrdards and techniques, that are commonly used in modern software projects.
+The development category is very formal and the quality and added value of the actual programming work is the important factor. New projects must have a unique character. Textbook examples and generic scripts, that already exist in big numbers, can't be approved. Contributions to existing projects must be merged, and thereby verified by the project maintainer, before submitting them on Utopian. Contributed code should always meet modern quality standards if applicable. As a moderator you need a decent understanding of such stanrdards and techniques, that are commonly used in modern software projects.
 
 ## Checklist
 
