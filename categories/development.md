@@ -9,7 +9,7 @@ This guide is to inform moderators about the reviewing process of [Development](
 - The post should not have `follow me, resteem` kind of things.
 - The author is suggested to format the lengthy github commit URL using a short one.
 - The code repository must be precise and correct.
-- The code repository should be at least active in the last 12 months
+- We should actually accept only pull requests. The users should use pull requests instead of direct commits in the branch.
 
 ### Red Flags (Instant Hide)
 - The rules clearly say that the contributions should be for the open source projects. So if it is close-source e.g. SteemSQL, we can't accept it.
