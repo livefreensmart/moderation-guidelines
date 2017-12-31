@@ -1,16 +1,14 @@
 <a href="https://utopian.io/"><img src="https://steemitimages.com/0x0/https://steemitimages.com/DQmazEk8Ew2yCoG3huAvG3xyPir39nT4rFkQGw8VPraFNaw/black.jpg" height="220"></a>
 
-### Moderation Guidelines
+### Utopian Moderation Guidelines
 
-This repository includes moderation guidelines for each contribution
-category on [Utopian](https://utopian.io).
+These guidelines aim to familiarize new moderators with the review process and specific criteria for each category on [Utopian](https://utopian.io). They also provide useful checklists for your everyday moderation work.
 
-#### Moderation Workflow
+#### General Moderation Workflow
 
 See [Moderation Workflow](https://github.com/utopian-io/moderation-guidelines/blob/master/general.md).
 
 #### Categories
-
 
 1. [Suggestions](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/suggestions.md)
 2. [Task Requests](https://github.com/utopian-io/moderation-guidelines/blob/master/categories/task-requests.md)
