@@ -10,9 +10,9 @@ This guide is to inform moderators about the reviewing process of [Development](
 - The author is suggested to format the lengthy github commit URL using a short one.
 - The code repository must be precise and correct.
 - We should actually accept only pull requests. The users should use pull requests instead of direct commits in the branch.
+- The readme file or that the PR must not be older than 30 days.
 
 ### Red Flags (Instant Hide)
-- The rules clearly say that the contributions should be for the open source projects. So if it is close-source e.g. SteemSQL, we can't accept it.
 - The code should be good quality i.e. should be well formatted with consistent indent and contains descriptive comments.
 - Some code repositories are copied from textbook examples, and we should hide them instantly. Always search some key code in the repository for plagrisim.
 - Beware `Form1.cs`, which indicates either bad code repository or code copied from somewhere else.
