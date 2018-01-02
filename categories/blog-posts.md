@@ -40,6 +40,23 @@ You can advise authors to re-create contribution on the related category. Howeve
 
 This category is open to plagiarism attacks. Even we saw **"rephrase plagiarism"** in this category. Use the plagiarism checker tools, google search to detect these kind of behaviour.
 
+### Comment Templates
+
+1. For the posts not related to open source. Ex: personal blogging.
+
+```
+Hello,
+
+Your contribution cannot be accepted.
+
+- Your contribution doesn't look relate or feature any open-source project.
+
+"Blog posts" category is directly related to open-source -just like every category at Utopian-. Please, post your normal blogging content on Steemit.
+
+You can contact us on [Discord](https://discord.gg/UCvqCsx).
+**[[utopian-moderator]](https://utopian.io/moderators)**
+```
+
 
 
 
