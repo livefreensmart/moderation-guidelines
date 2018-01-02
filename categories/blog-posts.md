@@ -49,7 +49,7 @@ Hello,
 
 Your contribution cannot be accepted.
 
-- Your contribution doesn't look relate or feature any open-source project.
+- Your contribution isn't related to any open-source project.
 
 "Blog posts" category is directly related to open-source -just like every category at Utopian-. Please, post your normal blogging content on Steemit.
 
