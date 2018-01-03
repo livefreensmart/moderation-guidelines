@@ -18,7 +18,7 @@ Open source is about collaboration on public domain projects. Therefore such pro
 > **Example README.md (busy.org)**
 > **https://github.com/busyorg/busy/blob/master/README.md**
 
-This also excludes projects that are not really meant to be used by a wider audience. Simple scripts that don't have a any realistic chance to be of some value to others, can't be accepted. There are no specific metrics to make this decision based upon but some cases are very obvious, others might need to be discussed.
+This also excludes projects that are not really meant to be used by a wider audience or are to trivial and redundant. Simple scripts and alike, that don't have a any realistic chance to be of some value to others, can't be accepted. There are no specific metrics to make this decision based upon but some cases are very obvious (e.g. tools like image resizers or currency converters), others might need to be discussed.
 
 ### Proof Of Work
 
