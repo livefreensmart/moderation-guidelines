@@ -4,6 +4,8 @@
 
 These guidelines aim to familiarize new moderators with the review process and specific criteria for each category on [Utopian](https://utopian.io). They also provide useful checklists for your everyday moderation work.
 
+**[These documents are still in progress!]**
+
 #### General Moderation Workflow
 
 See [Moderation Workflow](https://github.com/utopian-io/moderation-guidelines/blob/master/general.md).
