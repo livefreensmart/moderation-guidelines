@@ -2,9 +2,33 @@
 
 **Reminder:** Please read the current [Utopian Rules](https://utopian.io/rules) first, to bring yourself up to date.
 
-## General
+The development category is very formal and the quality and added value of the actual programming work is the important factor. New projects must have a unique character. Textbook examples and generic scripts, that already exist in big numbers, can't be approved. Contributions to existing projects must be merged, and thereby veryfied by the project maintainer, before submitting them on Utopian. Submitted code should always meet modern quality standards if applicable. As a moderator you need a decent understanding of such standards and techniques, that are commonly used in modern software projects.
 
-The development category is very formal and the quality and added value of the actual programming work is the important factor. New projects must have a unique character. Textbook examples and generic scripts, that already exist in big numbers, can't be approved. Contributions to existing projects must be merged, and thereby verified by the project maintainer, before submitting them on Utopian. Contributed code should always meet modern quality standards if applicable. As a moderator you need a decent understanding of such stanrdards and techniques, that are commonly used in modern software projects.
+There are two ways of contributing in the development category. One is to contribute to other projects, in the form of bug fixes and new features. The other is to share your own (actively maintained!) projects with the open source community and to invite others to participate (See [Development Task Requests](https://github.com/utopian-io/moderation-guidelines/tree/master/task-requests/development.md)). Therefore we will split this guide into **Projects** and **Contributions**.
+
+## Projects
+
+It's important at this point, to give a clear definition of what Utopian accepts as a valid open source project and what not. 
+
+Open source is about collaboration on public domain projects. Therefore such projects must include sufficient details about how the software works and how to participate in the project. The repository on GitHub must contain a *README.md* with all this information or links to it.
+
+> **About READMEs (and other good practices to present a project):**
+> **https://help.github.com/articles/about-readmes/**
+
+> **Example README.md (busy.org)**
+> **https://github.com/busyorg/busy/blob/master/README.md**
+
+This also excludes projects that are not really meant to be used by a wider audience or are to trivial and redundant. Simple scripts and alike, that don't have a any realistic chance to be of some value to others, can't be accepted. There are no specific metrics to make this decision based upon but some cases are very obvious (e.g. tools like image resizers or currency converters), others might need to be discussed.
+
+### Proof Of Work
+
+Evaluating the amount of work that went into a contribution can be tricky, because projects can contain numerous files of different types and formats and of course it's recommended to reuse code and outsource large parts of the work to existing third party libraries. Of course those parts can't be taken into account when evaluating the contribution. In fact there are some common rules and best practices to follow, when working with third party software.
+
+If possible, it shouldn't be directly included in the project. ...
+
+...
+
+## Contributions
 
 ## Checklist
 
@@ -21,14 +45,27 @@ The development category is very formal and the quality and added value of the a
 - [ ] Are code samples correctly [formatted](https://help.github.com/articles/creating-and-highlighting-code-blocks/) or [linked](https://help.github.com/articles/creating-a-permanent-link-to-a-code-snippet/)?
 - [ ] Is the contributed code well formatted and contains descriptive comments?
 - [ ] Does the code contain any obviously deprecated or dangerous parts?
-
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
 ## Good Examples
 
 - https://utopian.io/utopian-io/@netuoso/condenser-fix-body-length-check-on-post-and-comment
 - https://utopian.io/utopian-io/@stoodkev/fixed-3-issues-caused-by-changes-on-steemit-layout-feed-fixed
 - https://utopian.io/utopian-io/@samrg472/refactoring-and-cleaning-the-utopian-api-part-2
+- ...
+- ...
+- ...
+
 
 ## Comment Templates
 
 ...
+
+
+## Notes
+
+- plagiarism, search asset files for foreign authors
+- check the commits, "Added files via upload" makes it hard to evaluate the development.
+- posts should contain more description then code snippets...
