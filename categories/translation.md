@@ -47,6 +47,12 @@ All contributions submitted to Utopian, including translations, **must be formal
 
 Any contribution that's lacking in one, or more, of these points shall not be accepted on utopian. 
 
+On top of that, every contribution in the [Translation](https://utopian.io/translation/review) category must **NOT** include:
+
+* Anything unrelated to the project or the translation process.
+* Badly formatted text. 
+* Any sort of advertisement, ex. *"Resteem and upvote me!"*
+
 ### Machine-Translations
 
 The biggest issue of this category is currently how many machine-translations are being submitted. If an obviously machine-translated is spotted, it is to be hidden immediatelly and reported to a supervisor. If the user has already been unlocked by a supervisor and he continues to contribute machine-translated translations, he's to be reported to the supervisors again to be permamently banned off the site. 
