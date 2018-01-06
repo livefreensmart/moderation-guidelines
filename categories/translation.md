@@ -42,7 +42,7 @@ All contributions submitted to Utopian, including translations, **must be formal
 * Screeshots with proof of work and identity.
 * A short description of the translation process.
 * The link to the Github repository.
-* The link to contributor's Crowdin profile.
+* The link to contributor's Crowdin profile or his activity.
 * The link to project's Crowdin page.
 
 Any contribution that's lacking in one, or more, of these points shall not be accepted on utopian. 
