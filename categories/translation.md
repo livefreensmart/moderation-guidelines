@@ -4,7 +4,7 @@
 
 The [Translation](https://utopian.io/translation/review) category has historically been the most popular category on utopian-io. Because of that, the quality of the translation is the leading factor in the evaluation of contributions. The contributions must be submitted on [crowdin.com](https://crowdin.com) or [github.com](https://github.com), and in case of github, must be submitted as a pull request and merged into the reposition before they can be accepted. As a moderator of this category, you'll need to be fluent in English and flawless in your mother tongue. Any translations that aren't close to perfection aren't welcome on utopian.
 
-Ideally, a translation contribution should always be reviewed by a moderator that can understand the submitted language and find mistakes in the translation. If that's not possible, posts are to be reviewed by using various translators and by comparing the contribution to results of machine translation.
+Ideally, a translation contribution should always be reviewed by a moderator that can understand the submitted language and find mistakes in the translation. If that's not possible, posts are to be reviewed by using various translators and by comparing the contribution to results of machine translation. If the results match, the post shall be rejected.
 
 ## Rules:
 
