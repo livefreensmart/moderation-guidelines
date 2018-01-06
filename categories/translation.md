@@ -24,7 +24,7 @@ Ideally, a translation contribution should always be reviewed by a moderator tha
 >Any attempt at plagiarism should be immediatelly report to your supervisor, and the post should be permamently hidden on sight. Plagiarism is not welcome on utopian and there will be harsh actions taken against any plagiarist.
 
 * If your username on CrowdIn or similar translation platforms does not correspond to the Utopian username you must provide proof you are the owner by providing a screenshot of the logged in session in the translation platform.
->Just as with GitHub in the [Development](https://utopian.io/development/review)] or [Documentation](https://utopian.io/documentation/review) categories, proof of identity is required before the post can be accepted. If there's any suspicion of plagiarism, report the post to your supervisor immediately.
+>Just as with GitHub in the [Development](https://utopian.io/development/review) or [Documentation](https://utopian.io/documentation/review) categories, proof of identity is required before the post can be accepted. If there's any suspicion of plagiarism, report the post to your supervisor immediately.
 
 * Same translations from different authors will be accepted if the moderator can recognise the newest translation has better quality.
 >The quality of new translations has to be significantly better for this rule to be enforced. 
@@ -38,7 +38,7 @@ All contributions submitted to Utopian, including translations, **must be formal
 
 * Formal language.
 * A short description of the project.
-* How much progress was achieved by the contribution (both percentage and words).
+* An information on how much progress was achieved by the contribution (both percentage and words).
 * Screeshots with proof of work and identity.
 * A short description of the translation process.
 * The link to the Github repository.
