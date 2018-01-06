@@ -38,7 +38,7 @@ All contributions submitted to Utopian, including translations, **must be formal
 
 * Formal language.
 * A short description of the project.
-* An information on how much progress was achieved by the contribution (both percentage and words).
+* An information on how much progress was achieved by the contribution (at least the ammount of words).
 * Screeshots with proof of work and identity.
 * A short description of the translation process.
 * The link to the Github repository.
