@@ -64,6 +64,10 @@ If possible, it shouldn't be directly included in the project. ...
 ### Old project uploaded to GitHub
 
 > Your contribution cannot be approved. We cannot evaluate a development contribution, if there's no public history, such as that on GitHub, for open source projects, that were meant to be open source right from the beginning. Many users simply upload their old projects to GitHub, just to have the "Open Source" label, to get a reward. On Utopian we want actively maintained and promising Open Source projects and no outdated private projects. Simply uploading files to GitHub is not the way to go. You need to carefully prepare your project and provide information for others, both users and developers, to participate. The project should be up-to-date and documented and the development should happen in an organized and transparent manner, using Git/GitHub, to qualify as an open source project on Utopian.
+> 
+> For questions and feedback you can contact us on \[Discord](https://discord.gg/UCvqCsx).
+> 
+> \**\[[utopian-moderator]](https://utopian.io/moderators)**
 
 ## Notes
 
