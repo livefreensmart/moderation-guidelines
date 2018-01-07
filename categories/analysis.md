@@ -18,6 +18,12 @@ is "of relevance for Steem"
 data. There should be a correlation of the data with (all) previous
 weeks and there should be analysis/conclusions involed.
 
+General Steem statistics are already available from
+* https://steemwhales.com (all-time stats, TOP-whatever of the last X days, ...)
+* https://steemit.com/@penguinpablo (Daily stats on users/posts/comments/transfers/...)
+* http://www.steemreports.com/ (Lots!! of stuff about voting/comments/delegation/witnesses/...)
+* https://steemdown.com/ (Power-downs of whales)
+
 ## General checks
 
 * Steem blockchain analysis contributions should use the repository
