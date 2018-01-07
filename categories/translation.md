@@ -76,8 +76,7 @@ This is extremely important, as Utopian can't gain the trust of project owners a
 
 #### Machine-Translations:
 
-```
-markdown Your contribution cannot be approved yet. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
+```Your contribution cannot be approved yet. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
 
 We've found definitive proof that you've used Machine-Translations in this contribution. This contribution will not be accepted, and the decision is absolute. Your account has been suspended until you contact a moderator to resolve this issue.
 
@@ -88,7 +87,7 @@ You can contact us on [Discord](https://discord.gg/UCvqCsx).
 #### Wrong format:
 
 ```
-markdown Your contribution cannot be approved yet. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
+Your contribution cannot be approved yet. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
 
 Your contribution has to be formal and only include information about the project or the translation process. Any other information is unnecessary, and thus not acceptable.
 
@@ -98,7 +97,7 @@ You can contact us on [Discord](https://discord.gg/UCvqCsx).
 
 #### Too much code/ too many repeated strings.
 
-```markdown
+```
 Your contribution cannot be approved yet. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
 
 Your contribution contains too much code and/or too many repeated strings. Remember, that these don't count towards the minimum word count required in this category.
