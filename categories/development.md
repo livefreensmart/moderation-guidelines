@@ -63,29 +63,33 @@ If possible, it shouldn't be directly included in the project. ...
 
 ### Old project uploaded to GitHub
 
-> Your contribution cannot be approved. We cannot evaluate a development contribution, if there's no public history, such as that on GitHub, for open source projects, that were meant to be open source right from the beginning. Many users simply upload their old projects to GitHub, just to have the "Open Source" label, to get a reward. On Utopian we want actively maintained and promising Open Source projects and no outdated private projects. Simply uploading files to GitHub is not the way to go. You need to carefully prepare your project and provide information for others, both users and developers, to participate. The project should be up-to-date and documented and the development should happen in an organized and transparent manner, using Git/GitHub, to qualify as an open source project on Utopian.
-> 
-> For questions and feedback you can contact us on \[Discord](https://discord.gg/UCvqCsx).
-> 
-> \**\[[utopian-moderator]](https://utopian.io/moderators)**
+Your contribution cannot be approved. We cannot evaluate a development contribution, if there's no public history, such as that on GitHub, for open source projects, that were meant to be open source right from the beginning. Many users simply upload their old projects to GitHub, just to have the "Open Source" label, to get a reward. On Utopian we want actively maintained and promising Open Source projects and no outdated private projects. Simply uploading files to GitHub is not the way to go. You need to carefully prepare your project and provide information for others, both users and developers, to participate. The project should be up-to-date and documented and the development should happen in an organized and transparent manner, using Git/GitHub, to qualify as an open source project on Utopian.
+
+For questions and feedback you can contact us on \[Discord](https://discord.gg/UCvqCsx).
+
+\**\[[utopian-moderator]](https://utopian.io/moderators)**
+
+<hr>
 
 ### Textbook example with common quality issues
 
-> Your contribution cannot be approved because it does not follow the [Utopian Rules](https://utopian.io/rules).
->
-> \> Simple and common code snippets can't be submitted in the development category.
->
->Your project is too simple and has more the character of a textbook example. This kind of projects can't be accepted on Utopian. Also there are some issues with the quality of your GitHub repository.
->
-> - Your [README.md](https://github.com/chenlocus/find-steemians-in-city) is not very well formatted.
-> - The directory `node_modules` doesn't belong into the repository. These are third-party dependencies, that should be installed via a package manager, most likely [npm](https://www.npmjs.com/).
-> - You uploaded the whole project to GitHub in one single commit. This makes it hard to evaluate the history of the project and the actual work that has been done. It's also not the way Git/GitHub are intended to be used.
-> 
-> Please only submit projects of decent quality, that you want to actively maintain and develop. Instead you can also try to contribute to other, more established projects.
-> 
-> You can contact us on [Discord](https://discord.gg/UCvqCsx).
-> 
-> \**\[[utopian-moderator]](https://utopian.io/moderators)**
+Your contribution cannot be approved because it does not follow the [Utopian Rules](https://utopian.io/rules).
+
+> Simple and common code snippets can't be submitted in the development category.
+
+Your project is too simple and has more the character of a textbook example. This kind of projects can't be accepted on Utopian. Also there are some issues with the quality of your GitHub repository.
+
+\- Your \[README.md](https://github.com/...) is not very well formatted.<br>
+\- The directory \`node_modules\` doesn't belong into the repository. These are third-party dependencies, that should be installed via a package manager, most likely \[npm](https://www.npmjs.com/).<br>
+\- You uploaded the whole project to GitHub in one single commit. This makes it hard to evaluate the history of the project and the actual work that has been done. It's also not the way Git/GitHub are intended to be used.<br>
+ 
+Please only submit projects of decent quality, that you want to actively maintain and develop. Instead you can also try to contribute to other, more established projects.
+ 
+For questions and feedback you can contact us on \[Discord](https://discord.gg/UCvqCsx).
+ 
+\**\[[utopian-moderator]](https://utopian.io/moderators)**
+
+<hr>
 
 ## Notes
 
