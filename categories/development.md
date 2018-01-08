@@ -73,9 +73,9 @@ For questions and feedback you can contact us on \[Discord](https://discord.gg/U
 
 ### Textbook example with common quality issues
 
-Your contribution cannot be approved because it does not follow the [Utopian Rules](https://utopian.io/rules).
+Your contribution cannot be approved because it does not follow the \[Utopian Rules](https://utopian.io/rules).
 
-> Simple and common code snippets can't be submitted in the development category.
+\> Simple and common code snippets can't be submitted in the development category.
 
 Your project is too simple and has more the character of a textbook example. This kind of projects can't be accepted on Utopian. Also there are some issues with the quality of your GitHub repository.
 
