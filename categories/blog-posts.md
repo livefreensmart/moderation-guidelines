@@ -53,7 +53,7 @@ Your contribution cannot be accepted.
 
 "Blog posts" category is directly related to open-source -just like every category at Utopian-. Please, post your normal blogging content on Steemit.
 
-You can contact us on [Discord](https://discord.gg/UCvqCsx).
+You can contact us on [Discord](https://discord.gg/uTyJkNm).
 **[[utopian-moderator]](https://utopian.io/moderators)**
 ```
 2. Wrong category
@@ -67,7 +67,7 @@ on the correct category.
 
 The correct category you should re-post is **translations**.
 
-You can contact us on [Discord](https://discord.gg/UCvqCsx).
+You can contact us on [Discord](https://discord.gg/uTyJkNm).
 **[[utopian-moderator]](https://utopian.io/moderators)**
 ```
 
