@@ -56,8 +56,20 @@ Your contribution cannot be accepted.
 You can contact us on [Discord](https://discord.gg/UCvqCsx).
 **[[utopian-moderator]](https://utopian.io/moderators)**
 ```
+2. Wrong category
 
+```
+Hello,
 
+Thank you for the contribution. However, you have picked the wrong category. We cannot move blog posts
+to translations at this time, so please edit this contribution as "DELETED" and create a new one
+on the correct category.
+
+The correct category you should re-post is **translations**.
+
+You can contact us on [Discord](https://discord.gg/UCvqCsx).
+**[[utopian-moderator]](https://utopian.io/moderators)**
+```
 
 
 
