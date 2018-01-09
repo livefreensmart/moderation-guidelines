@@ -35,7 +35,7 @@ If possible, it shouldn't be directly included in the project. ...
 - [ ] What did the user contribute before?
 - [ ] Is it a new project, started by the user?
   - [ ] Does it provide some unique features/added value?
-  - [ ] Is there a valid (open source) LICENSE file?
+  - [ ] Is there a valid (open source) [LICENSE file](https://help.github.com/articles/adding-a-license-to-a-repository/)?
   - [ ] Is there a descriptive README file with instructions?
 - [ ] Is it a contribution to someone else's project?
   - [ ] Is the repository correct?
