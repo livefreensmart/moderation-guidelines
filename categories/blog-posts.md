@@ -26,8 +26,6 @@ Blog posts category is a category that where we need **good looking** posts.
 
 ### Red Flags (Instant Hide)
 
-- Even though we have accepted blog posts in local languages in the past, We don't accept them anymore. All blog posts must be in English.
-
 - Rules clearly state that, blog posts must be directly related to a open-source project. Ranting about general open-source movement is a red flag with the current rule set and shouldn't get an approve.
 
 ### Category changes
