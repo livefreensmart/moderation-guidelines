@@ -48,7 +48,7 @@ Ideally, a translation contribution should always be reviewed by a moderator tha
 
 ### Post Formatting
 
-All contributions submitted to Utopian, including translations, **must be formal** and informative. Every contribution in the [Translation](https://utopian.io/translation/review) category must include:
+All contributions submitted to Utopian, including translations, **must be formal** and informative. The posts must also follow the format presented to the user when creating a contribution. Every contribution in the [Translation](https://utopian.io/translation/review) category must include:
 
 * Formal language.
 * A short description of the project.
