@@ -160,7 +160,7 @@ You can contact us on [Discord](https://discord.gg/UCvqCsx).
 
 * A lot of the points here are based on the fact that the *quality slider* is coming to utopian soon. If it doens't come soon enough, this file will be updated to reflect the current state of Utopian.
 
-* ```markdown
+* This should probably be shown under every rejection for the next month or so:
+```markdown
  Please, make sure you read the rules carefully before you contribute again, as all contribution rejections are now indisputable and we don't allow users to correct their mistakes. 
  ``` 
-should probably be shown under every rejection for the next month or so.
