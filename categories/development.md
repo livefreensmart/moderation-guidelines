@@ -4,7 +4,7 @@
 
 The [Development](https://utopian.io/development/review) category is very formal and the quality and added value of the actual programming work is the important factor. New projects must have a unique character. Textbook examples and generic scripts, that already exist in big numbers, can't be approved. Contributions to existing projects must be merged, and thereby veryfied by the project maintainer, before submitting them on Utopian. Submitted code should always meet modern quality standards if applicable. As a moderator you need a decent understanding of such standards and techniques, that are commonly used in modern software projects.
 
-There are two ways of contributing in the development category. One is to contribute to other projects, in the form of bug fixes and new features. The other is to share your own (actively maintained!) projects with the open source community and to invite others to participate (See [Development Task Requests](https://github.com/utopian-io/moderation-guidelines/tree/master/task-requests/development.md)). Therefore we will split this guide into **Projects** and **Contributions**.
+There are two ways of contributing in the development category. One is to contribute to other projects, in the form of bug fixes and new features. The other is to share your own (actively maintained!) projects with the open source community and to invite others to participate. Therefore we will split this guide into **Projects** and **Contributions**.
 
 ## Projects
 
