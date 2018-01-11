@@ -2,7 +2,7 @@
 
 **Reminder:** Please read the current [Utopian Rules](https://utopian.io/rules) first, to bring yourself up to date. This file might not be up to date. It was last updated on *12 Jan 2018*.
 
-The [Translation](https://utopian.io/translation/review) category has historically been the most popular category on utopian-io. Because of that, the quality of the translation is the leading factor in the evaluation of contributions. The contributions must be submitted on [crowdin.com](https://crowdin.com) or [github.com](https://github.com), and in case of github, must be submitted as a pull request and merged into the repository before they can be accepted. As a moderator of this category, you'll need to be fluent in English and flawless in your mother tongue. Any translations that aren't close to perfection aren't welcome on utopian.
+The [Translation](https://utopian.io/translation/review) category has historically been the most popular category on utopian-io. Because of that, the quality of the translation is the leading factor in the evaluation of contributions. The contributions must be submitted on [crowdin.com](https://crowdin.com) or [github.com](https://github.com), and in case of GitHub, must be submitted as a pull request and merged into the repository before they can be accepted. As a moderator of this category, you'll need to be fluent in English and flawless in your mother tongue. Any translations that aren't close to perfection aren't welcome on utopian.
 
 Ideally, a translation contribution should always be reviewed by a moderator that can understand the submitted language and find mistakes in the translation. If that's not possible, posts are to be reviewed by using various translators and by comparing the contribution to results of machine translation. If the results match, the post shall be rejected.
 
@@ -26,7 +26,7 @@ Ideally, a translation contribution should always be reviewed by a moderator tha
 * If it is obvious that you can't properly write in the source language of the translation, your contribution will be rejected.
 >A big ammount of errors and/or obvious gramaticall errors will always result in an instant rejection of a post.
 
-* Only translations on CrowdIn or Github are accepted. You should not translate the words and provide them in your Utopian post directly.
+* Only translations on Crowdin or GitHub are accepted. You should not translate the words and provide them in your Utopian post directly.
 >Any translation submited to an another website should be permamently hidden on sight, while informing the contributor about this rule and allowing him to contribute again with this rule in mind.
 
 * Your Github Account or Crowdin Account must match your Steem/Utopian account. If it does not you must use the field "Full Name" in Crowdin to show you are the author.
@@ -37,6 +37,9 @@ Ideally, a translation contribution should always be reviewed by a moderator tha
 
 * Entire translations are always preferred. If you are writing about a partial translation we reserve the right to evaluate the actual work.
 >If the user is splitting his posts into convinient 1000 word parts, you may use the quality slider to lower their vote.
+
+* If your username on Crowdin or similar translation platforms does not correspond to the Utopian username you must provide proof you are the owner by providing a screenshot of the logged in session in the translation platform.
+>Just as with GitHub in the [Development](https://utopian.io/development/review) or [Documentation](https://utopian.io/documentation/review) categories, proof of identity is required before the post can be accepted. If there's any suspicion of plagiarism, report the post to your supervisor immediately.
 
 * Same translations from different authors will be accepted if the moderator can recognise the newest translation has better quality.
 >The quality of new translations has to be significantly better for this rule to be enforced. 
@@ -55,7 +58,7 @@ All contributions submitted to Utopian, including translations, **must be formal
 * An information on how much progress was achieved by the contribution (at least the ammount of words).
 * Screeshots with proof of work.
 * A short description of the translation process.
-* The link to the Github repository.
+* The link to the GitHub repository.
 * The link to contributor's Crowdin profile or his activity.
 * The link to project's Crowdin page.
 
@@ -79,11 +82,11 @@ This is extremely important, as Utopian can't gain the trust of project owners a
 - [ ] Are there no obvious mistakes in the translations? This includes machine-translations.
 - [ ] Is the translation submitted to Crowdin?
   - [ ] Is the repository correct?
-  - [ ] Was there any activity withing the past year?
+  - [ ] Was there any activity in the repository within the past year?
   - [ ] Was the translation submitted in the last week?
-- [ ] Is the translation submitted to Github?
+- [ ] Is the translation submitted to GitHub?
   - [ ] Is the repository correct?
-  - [ ] Was there any activity withing the past year?
+  - [ ] Was there any activity in the repository within the past year?
   - [ ] Is the Pull Request already merged?
   - [ ] Was the translation submitted in the last week?
 
@@ -106,7 +109,7 @@ We've found definitive proof that you've used Machine-Translations in this contr
 
 Please, make sure you read the rules carefully before you contribute again, as all contribution rejections are now indisputable and we don't allow users to correct their mistakes.
 
-You can contact us on [Discord](https://discord.gg/UCvqCsx).
+You can contact us on [Discord](https://discord.gg/uTyJkNm).
 **[[utopian-moderator]](https://utopian.io/moderators)** 
 ```
 
@@ -121,7 +124,7 @@ Your contribution has to follow the formatting provided to you via the editor, a
 
 Please, make sure you read the rules carefully before you contribute again, as all contribution rejections are now indisputable and we don't allow users to correct their mistakes.
 
-You can contact us on [Discord](https://discord.gg/UCvqCsx).
+You can contact us on [Discord](https://discord.gg/uTyJkNm).
 **[[utopian-moderator]](https://utopian.io/moderators)** 
 ```
 
@@ -136,7 +139,7 @@ Your contribution contains too much code and/or too many repeated strings. Remem
 
 Please, make sure you read the rules carefully before you contribute again, as all contribution rejections are now indisputable and we don't allow users to correct their mistakes.
 
-You can contact us on [Discord](https://discord.gg/UCvqCsx).
+You can contact us on [Discord](https://discord.gg/uTyJkNm).
 **[[utopian-moderator]](https://utopian.io/moderators)** 
 ```
 
