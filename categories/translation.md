@@ -38,9 +38,6 @@ Ideally, a translation contribution should always be reviewed by a moderator tha
 * Entire translations are always preferred. If you are writing about a partial translation we reserve the right to evaluate the actual work.
 >If the user is splitting his posts into convinient 1000 word parts, you may use the quality slider to lower their vote.
 
-* If your username on Crowdin or similar translation platforms does not correspond to the Utopian username you must provide proof you are the owner by providing a screenshot of the logged in session in the translation platform.
->Just as with GitHub in the [Development](https://utopian.io/development/review) or [Documentation](https://utopian.io/documentation/review) categories, proof of identity is required before the post can be accepted. If there's any suspicion of plagiarism, report the post to your supervisor immediately.
-
 * Same translations from different authors will be accepted if the moderator can recognise the newest translation has better quality.
 >The quality of new translations has to be significantly better for this rule to be enforced. 
 
