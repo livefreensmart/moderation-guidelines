@@ -1,5 +1,7 @@
 # Moderating Translation Contributions
 
+## THIS FILE IS NOW OBSOLETE AS OF *12 Jan 2018* DUE TO BIG RULECHANGES TO THE TRANSLATIONS CATEGORY. PLEASE, WAIT FOR IT TO GET UPDATED BEFORE FOLLOWING THESE GUIDELINES.
+
 **Reminder:** Please read the current [Utopian Rules](https://utopian.io/rules) first, to bring yourself up to date. This file might not be up to date. It was last updated on *06 Jan 2018*.
 
 The [Translation](https://utopian.io/translation/review) category has historically been the most popular category on utopian-io. Because of that, the quality of the translation is the leading factor in the evaluation of contributions. The contributions must be submitted on [crowdin.com](https://crowdin.com) or [github.com](https://github.com), and in case of github, must be submitted as a pull request and merged into the repository before they can be accepted. As a moderator of this category, you'll need to be fluent in English and flawless in your mother tongue. Any translations that aren't close to perfection aren't welcome on utopian.
