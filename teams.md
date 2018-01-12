@@ -3,41 +3,46 @@ The categories are in order of specialisation, but the order of supervisors is r
 
 ## Teams:
 
+### Management:
+
+#### 0 - *elear*
+
+
 ### Creative & Development:
 
-#### A - **espoem**:
+#### A - *espoem*:
 * Blog,
 * Analysis,
 * Copywriting;
 
-#### B - **mkt**:
+#### B - *mkt*:
 * Development,
 * Documentation,
 
-#### C - **???**:
+#### C - *???*:
 * Graphics;
 
-#### D - **knowledges**:
+#### D - *knowledges*:
 * Suggestion,
 * Bug Hunting,
 * Visibility;
 
 ### Language-Related:
 
-#### E - **ruah**:
+#### E - *ruah*:
 * Translation - Lead Team;
 
-#### F - **jestemkioskiem**:
+#### F - *jestemkioskiem*:
 * Translation,
 * Tutorial,
 * Video-Tutorial;
 
-#### G - **mcfarhat**:
+#### G - *mcfarhat*:
 * Tutorial,
 * Video-Tutorial,
 * Translation;
 
-#### H - **arie-steem**:
+#### H - *arie-steem*:
 * Video-Tutorial,
 * Tutorial,
 * Translation - Indonesian Translators;
