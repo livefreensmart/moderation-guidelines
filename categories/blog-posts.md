@@ -26,8 +26,6 @@ Blog posts category is a category that where we need **good looking** posts.
 
 ### Red Flags (Instant Hide)
 
-- Even though we have accepted blog posts in local languages in the past, We don't accept them anymore. All blog posts must be in English.
-
 - Rules clearly state that, blog posts must be directly related to a open-source project. Ranting about general open-source movement is a red flag with the current rule set and shouldn't get an approve.
 
 ### Category changes
@@ -53,11 +51,23 @@ Your contribution cannot be accepted.
 
 "Blog posts" category is directly related to open-source -just like every category at Utopian-. Please, post your normal blogging content on Steemit.
 
-You can contact us on [Discord](https://discord.gg/UCvqCsx).
+You can contact us on [Discord](https://discord.gg/uTyJkNm).
 **[[utopian-moderator]](https://utopian.io/moderators)**
 ```
+2. Wrong category
 
+```
+Hello,
 
+Thank you for the contribution. However, you have picked the wrong category. We cannot move blog posts
+to translations at this time, so please edit this contribution as "DELETED" and create a new one
+on the correct category.
+
+The correct category you should re-post is **translations**.
+
+You can contact us on [Discord](https://discord.gg/uTyJkNm).
+**[[utopian-moderator]](https://utopian.io/moderators)**
+```
 
 
 
