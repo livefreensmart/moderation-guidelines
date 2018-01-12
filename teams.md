@@ -1,5 +1,5 @@
 # This is a file containing all of our current teams, their specialisations as well as the supervisors handling them.
-The categories are in order of specialisation, but the order of supervisors is random. The most category is always first, and the sub-categories follow. Moderators are welcome to review other categories, and to get enabled in them should contact a supervisor that supervises one of these categories (preferably as a main category).
+The categories are in order of specialisation, but the order of supervisors is random. The main category is always first, and the sub-categories follow. Moderators are welcome to review other categories, to get enabled in them, they should contact a supervisor that supervises one of these categories (preferably as a main category).
 
 Every supervisor has got it's own, unique main category that is not shared with other supervisors, unless one of them is supervising the Lead-Team (see teams E and F).
 
