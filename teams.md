@@ -12,20 +12,23 @@ The management is currently handled by **elear** with **arie.steem** & **espoem*
 These teams require specialists to review them and should be split into as few categories as possible to avoid inconsistent reviews. As so, in these teams, no categories other than **Bug Hunting** repeats itself. 
 
 # A
-#### espoem
+#### Handled by espoem
 * Blog,
 * Analysis,
 * Copywriting;
 
-#### B - *mkt*:
+# B
+#### Handled by mkt
 * Development,
 * Documentation,
 * Bug Hunting;
 
-#### C - *???*:
+# C
+#### Handled by ???
 * Graphics;
 
-#### D - *knowledges*:
+# D
+#### Handled by knowledges
 * Suggestion,
 * Bug Hunting,
 * Visibility;
@@ -34,20 +37,24 @@ These teams require specialists to review them and should be split into as few c
 
 Translations, Tutorials and Video-Tutorials make up the most of all contributions on utopian. As so, multiple teams are required to handle them in order to avoid massive downtimes. Also, as Tutorials and Video-Tutorials allow the users to contribute in their mother-tongue, it was important to match these categories to a team that already handles Translations.
 
-#### E - *ruah*:
+# E
+#### Handled by ruah
 * Translation - Lead Team;
 
-#### F - *jestemkioskiem*:
+# F
+#### Handled by jestemkioskiem
 * Translation,
 * Tutorial,
 * Video-Tutorial;
 
-#### G - *mcfarhat*:
+# G
+#### Handled by mcfarhat
 * Tutorial,
 * Video-Tutorial,
 * Translation;
 
-#### H - *arie-steem*:
+# H
+#### Handled by arie-steem
 * Video-Tutorial,
 * Tutorial,
 * Translation - Indonesian Translators;
