@@ -27,7 +27,7 @@ The management is currently handled by **elear** with **arie.steem** & **espoem*
 * Bug Hunting,
 * Visibility;
 
-### Language-Related:
+### Language and How-Tos:
 
 #### E - *ruah*:
 * Translation - Lead Team;
