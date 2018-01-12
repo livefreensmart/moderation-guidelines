@@ -2,9 +2,9 @@
 
 **Reminder:** Please read the current [Utopian Rules](https://utopian.io/rules) first, to bring yourself up to date.
 
-The [Development](https://utopian.io/development/review) category is very formal and the quality and added value of the actual programming work is the important factor. New projects must have a unique character. Textbook examples and generic scripts, that already exist in big numbers, can't be approved. Contributions to existing projects must be merged, and thereby veryfied by the project maintainer, before submitting them on Utopian. Submitted code should always meet modern quality standards if applicable. As a moderator you need a decent understanding of such standards and techniques, that are commonly used in modern software projects.
+The [Development](https://utopian.io/development/review) category is very formal and the quality and added value of the actual programming work is the important factor. New projects must have a unique character. Textbook examples and generic scripts, that already exist in big numbers, can't be approved. Contributions to existing projects must be merged, and thereby veryfied by the project maintainer, before submitting them on Utopian. Submitted code should always meet modern quality standards. As a moderator you need a decent understanding of such standards and techniques, that are commonly used in modern software projects.
 
-There are two ways of contributing in the development category. One is to contribute to other projects, in the form of bug fixes and new features. The other is to share your own (actively maintained!) projects with the open source community and to invite others to participate. Therefore we will split this guide into **Projects** and **Contributions**.
+There are two ways of contributing in the development category. One is to contribute to other projects, in the form of bug fixes and new features. The other is to share your own (actively maintained!) projects with the open source community and to invite others to participate.
 
 ## Projects
 
@@ -23,19 +23,19 @@ This also excludes projects that are not really meant to be used by a wider audi
 
 ### Old Projects
 
-Utopian can not retroactively reward all open source work every done, so there needs to be a date limitation to guarantee a certain relevance and up-to-dateness. Pull requests must not be older than 7 days and the project must have been active within the last 12 month.
+Utopian can not retroactively reward all open source work ever done, so there needs to be a date limitation to guarantee a certain relevance and up-to-dateness. Pull requests must not be older than 7 days and the project must have been active within the last 12 month.
 
 Simply uploading old files to GitHub is not the way to go. An open source project needs to be carefully prepared. It should be up-to-date and well documented. The development should happen in an organized and transparent manner, using Git/GitHub, which is the de-facto standard for managing collaborative software development. If another versioning system was used before, there should be proof over the projects history in the form of the original repository. 
 
-### Proof Of Work
+### Third Party Software
 
-Evaluating the amount of work that went into a contribution can be tricky, because projects can contain numerous files of different types and formats and of course it's recommended to reuse code and outsource large parts of the work to existing third party libraries. Of course those parts can't be taken into account when evaluating the contribution. In fact there are some common rules and best practices to follow, when working with third party software.
-
-If possible, it shouldn't be directly included in the project. ...
-
-...
+Evaluating the amount of work that went into a contribution can be tricky, because projects can contain numerous files of different types and formats and of course it's recommended to reuse code and outsource large parts of the work to existing third party libraries. Of course those parts can't be taken into account when evaluating the contribution. You as a moderator need to be able to distinguish between actual work and utilisation of other peoples work. There are rules and best practices to follow, when working with third party software, that you have to be familiar with.
 
 ## Contributions
+
+Contributions to existing projects are much more easy to review as the amount of code and files you have to look at is most likely much less. If the repository meets the activity requirements and the PR is merged, the contribution is qualified to be approved.
+However, you need to validate the amount of work that went into a contribution. Again there's no specific metric, but updating the project's dependencies file is, for sure, not enough.
+A contribution should include a bug fix, a new feature or any other **significant improvement** to be rewarded by Utopian. 
 
 ## Checklist
 
@@ -48,7 +48,7 @@ If possible, it shouldn't be directly included in the project. ...
   - [ ] Is the repository correct?
   - [ ] Was there any activity withing the past year?
   - [ ] Is the Pull Request already merged?
-  - [ ] Was it merged within the past 30 days?
+  - [ ] Was it merged within the past 7 days?
 - [ ] Are code samples correctly [formatted](https://help.github.com/articles/creating-and-highlighting-code-blocks/) or [linked](https://help.github.com/articles/creating-a-permanent-link-to-a-code-snippet/)?
 - [ ] Is the contributed code well formatted and contains descriptive comments?
 - [ ] Does the code contain any obviously deprecated or dangerous parts?
