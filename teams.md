@@ -11,7 +11,8 @@ The management is currently handled by **elear** with **arie.steem** & **espoem*
 
 These teams require specialists to review them and should be split into as few categories as possible to avoid inconsistent reviews. As so, in these teams, no categories other than **Bug Hunting** repeats itself. 
 
-#### A - *espoem*:
+# A
+#### espoem
 * Blog,
 * Analysis,
 * Copywriting;
