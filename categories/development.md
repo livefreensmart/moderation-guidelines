@@ -33,7 +33,7 @@ Evaluating the amount of work that went into a contribution can be tricky, becau
 
 ## Contributions
 
-Contributions to existing projects are much more easy to review as the amount of code and files you have to look at is most likely much less. If the repository meets the activity requirements and the PR is merged, the contribution is qualified to be approved.
+Contributions to existing projects are much more easy to review as the amount of code and files you have to look at is most likely much less. If the repository meets the activity requirements and the PR is merged, the contribution is qualified to get approved.
 However, you need to validate the amount of work that went into a contribution. Again there's no specific metric, but updating the project's dependencies file is, for sure, not enough.
 A contribution should include a bug fix, a new feature or any other **significant improvement** to be rewarded by Utopian. 
 
