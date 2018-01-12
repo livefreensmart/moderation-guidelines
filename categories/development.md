@@ -10,15 +10,22 @@ There are two ways of contributing in the development category. One is to contri
 
 It's important at this point, to give a clear definition of what Utopian accepts as a valid open source project and what not. 
 
-Open source is about collaboration on public domain projects. Therefore such projects must include sufficient details about how the software works and how to participate in the project. The repository on GitHub must contain a *README.md* with all this information or links to it.
+Open source is about collaboration on public domain projects. Therefore such projects, when shared on Utopian for the first time, must include sufficient details about how the software works and how to participate in the project. The repository on GitHub must contain a *README.md* with all this information or links to it.
 
 > **About READMEs (and other good practices to present a project):**
 > **https://help.github.com/articles/about-readmes/**
 
-> **Example README.md (busy.org)**
-> **https://github.com/busyorg/busy/blob/master/README.md**
+> **Examples**<br>
+> **https://github.com/busyorg/busy/blob/master/README.md** (busy.org)<br>
+> **https://gist.github.com/PurpleBooth/109311bb0361f32d87a2** (template)
 
-This also excludes projects that are not really meant to be used by a wider audience or are to trivial and redundant. Simple scripts and alike, that don't have a any realistic chance to be of some value to others, can't be accepted. There are no specific metrics to make this decision based upon but some cases are very obvious (e.g. tools like image resizers or currency converters), others might need to be discussed.
+This also excludes projects that are not really meant to be used by a wider audience or are to trivial and redundant. Simple scripts and alike, that don't have any realistic chance to be of some value to others, can't be accepted. There are no specific metrics to make this decision based upon but some cases are very obvious (e.g. tools like image resizers or currency converters), others might need to be discussed.
+
+### Old Projects
+
+Utopian can not retroactively reward all open source work every done, so there needs to be a date limitation to guarantee a certain relevance and up-to-dateness. Pull requests must not be older than 7 days and the project must have been active within the last 12 month.
+
+Simply uploading old files to GitHub is not the way to go. An open source project needs to be carefully prepared. It should be up-to-date and well documented. The development should happen in an organized and transparent manner, using Git/GitHub, which is the de-facto standard for managing collaborative software development. If another versioning system was used before, there should be proof over the projects history in the form of the original repository. 
 
 ### Proof Of Work
 
