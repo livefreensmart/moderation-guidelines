@@ -100,7 +100,7 @@ You can contact us on [Discord](https://discord.gg/UCvqCsx).
 #### Machine-Translations:
 
 ```markdown
-Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
+Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules).
 
 We've found definitive proof that you've used Machine-Translations in this contribution, which lead to incorrect translations. If you continue to break this rule, your account will be permamently suspended.
 
@@ -113,7 +113,7 @@ You can contact us on [Discord](https://discord.gg/uTyJkNm).
 #### Wrong format:
 
 ```markdown
-Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
+Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules).
 
 Your contribution has to follow the formatting provided to you via the editor, as well as being formal and informative. It also shouldn't include anything unrelated to the project or the contribution process.
 
@@ -128,7 +128,7 @@ You can contact us on [Discord](https://discord.gg/uTyJkNm).
 #### Too much code/ too many repeated strings.
 
 ```markdown
-Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
+Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules).
 
 Your contribution contains too much code and/or too many repeated strings. Remember, that these don't count towards the minimum word count required in this category. Examples:
 
@@ -144,7 +144,7 @@ You can contact us on [Discord](https://discord.gg/uTyJkNm).
 #### Low quality translation:
 
 ```markdown
-Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules). Please edit your contribution to reapply for approval.
+Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules).
 
 Your translation is of a very low quality, containing many errors and mistakes that may or may not include: grammar errors, typos, misspelings, code translations and others. Examples:
 
