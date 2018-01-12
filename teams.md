@@ -4,8 +4,7 @@ The categories are in order of specialisation, but the order of supervisors is r
 ## Teams:
 
 ### Management:
-
-#### 0 - *elear*
+The management is currently handled by **elear** with **arie.steem** & **espoem** as his overseers.
 
 
 ### Creative & Development:
@@ -18,6 +17,7 @@ The categories are in order of specialisation, but the order of supervisors is r
 #### B - *mkt*:
 * Development,
 * Documentation,
+* Bug Hunting;
 
 #### C - *???*:
 * Graphics;
