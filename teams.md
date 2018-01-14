@@ -59,4 +59,12 @@ Translations, Tutorials and Video-Tutorials make up the most of all contribution
 * Tutorial,
 * Translation - Indonesian Translators;
 
+## I 
+#### Handled by omeratagun
+* Translations - Turkish Translators;
+
+## J
+#### Handled by Deathwing
+* Video-Tutorial,
+* Tutorial;
 
