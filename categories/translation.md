@@ -100,7 +100,7 @@ You can contact us on [Discord](https://discord.gg/UCvqCsx).
 #### Machine-Translations:
 
 ```markdown
-Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules). 
+Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules).
 
 We've found definitive proof that you've used Machine-Translations in this contribution, which lead to incorrect translations. If you continue to break this rule, your account will be permamently suspended.
 
@@ -145,8 +145,7 @@ You can contact us on [Discord](https://discord.gg/uTyJkNm).
 #### Low quality translation:
 
 ```markdown
-Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules). 
-
+Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io/rules).
 
 Your translation is of a very low quality, containing many errors and mistakes that may or may not include: grammar errors, typos, misspelings, code translations and others. Examples:
 
