@@ -104,6 +104,7 @@ Your contribution cannot be approved. See the [Utopian Rules](https://utopian.io
 
 We've found definitive proof that you've used Machine-Translations in this contribution, which lead to incorrect translations. If you continue to break this rule, your account will be permamently suspended.
 
+
 Please, make sure you read the rules carefully before you contribute again, as all contribution rejections are now indisputable and we don't allow users to correct their mistakes.
 
 You can contact us on [Discord](https://discord.gg/uTyJkNm).
