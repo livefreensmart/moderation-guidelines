@@ -14,6 +14,14 @@ Also sometimes the actual intended behavior is mistaken for a bug, due to a lack
 
 As a moderator you have to competently judge what is an actual bug and what not.
 
+More generally speaking, bugs can be divided into the following *levels of severity*:
+
+- Level 1: Trivial/Cosmetic
+- Level 2: Unintended/Misleading Behavior
+- Level 3: Critical/Complete Failure
+
+Level 1 contributions are not eligible for the Bug Hunting category. However, if well elaborated, they can be suitable for the Suggestion category.
+
 ## Format
 
 Bug reports should be as streamlined as possible to make it as easy as possible to review them, not only for the moderators but first of all for the developers dealing with those bugs. Irrelevant information, such as personal stories, unrelated links, images or video parts, should be avoided.
