@@ -24,7 +24,7 @@ These teams require specialists to review them and should be split into as few c
 * Bug Hunting;
 
 ## C
-#### Handled by ???
+#### Handled by podan.rj
 * Graphics;
 
 ## D
