@@ -30,12 +30,6 @@ Blog posts category is a category that where we need **good looking** posts.
 
 -- Even though we have accepted blog posts in local languages in the past, We don't accept them anymore. All blog posts must be in English.
 
-### Category changes
-
-Some authors tend to post some tutorials in the blog posts category. It's impossible to move posts from blog posts to tutorials at the moment, so these will be instant hides with an explanation.
-
-You can advise authors to re-create contribution on the related category. However, if the contribution has basic mistakes, you should also warn them about the problems.
-
 ### Things to consider
 
 This category is open to plagiarism attacks. Even we saw **"rephrase plagiarism"** in this category. Use the plagiarism checker tools, google search to detect these kind of behaviour.
@@ -52,20 +46,6 @@ Your contribution cannot be accepted.
 - Your contribution isn't related to any open-source project.
 
 "Blog posts" category is directly related to open-source -just like every category at Utopian-. Please, post your normal blogging content on Steemit.
-
-You can contact us on [Discord](https://discord.gg/uTyJkNm).
-**[[utopian-moderator]](https://utopian.io/moderators)**
-```
-2. Wrong category
-
-```
-Hello,
-
-Thank you for the contribution. However, you have picked the wrong category. We cannot move blog posts
-to translations at this time, so please edit this contribution as "DELETED" and create a new one
-on the correct category.
-
-The correct category you should re-post is **translations**.
 
 You can contact us on [Discord](https://discord.gg/uTyJkNm).
 **[[utopian-moderator]](https://utopian.io/moderators)**
