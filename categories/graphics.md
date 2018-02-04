@@ -9,9 +9,9 @@ Graphic contributions,
 - Should be linked to correct repository
 - Should be in formal language
 - Should have a descriptive text about project
-- Should have a desctiptive text about design's purpose and process
-- Should have a desctiptive text about improvements and benefits
-- Should have screenshots/gifs/videos to proove that work done by author
+- Should have a descriptive text about design's purpose and process
+- Should have a descriptive text about improvements and benefits
+- Should have screenshots/gifs/videos to prove that work done by author
 - Should have publicly accessible (editable and ready to use) files
 - Should have information about tools used -e.g., illustrator, photoshop, sketch
 - Should have links/information for used materials -e.g., font, background images, mock-up files
@@ -54,7 +54,7 @@ Coloring is another important subject. Every color has own meanings. Therefore p
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_B532D972151F280BDE0601876D1865FEA77BF0AE9AEA3FB077439038BF67DC78_1516709807882_utopian-guidelines-05.svg)
 
 ### Size variations
-Logos or application icons should be usable as favicon, menubar icon or notification icon aswell so size alternatives should be presented.
+Logos or application icons should be usable as favicon, menubar icon or notification icon, so size alternatives should be presented.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_B532D972151F280BDE0601876D1865FEA77BF0AE9AEA3FB077439038BF67DC78_1516709823339_utopian-guidelines-07.svg)
 
@@ -69,7 +69,7 @@ Proposed logo design should be compared to old one, side by side to show the imp
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_B532D972151F280BDE0601876D1865FEA77BF0AE9AEA3FB077439038BF67DC78_1516711247784_utopian-guidelines-comp.svg)
 
 ### Application Mockup
-Application is requried to see that logo design or app icon to visualize it in production.
+Application is required to see that logo design or app icon to visualize it in production.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_B532D972151F280BDE0601876D1865FEA77BF0AE9AEA3FB077439038BF67DC78_1516711409334_utopian-guidelines-mock.svg)
 
@@ -94,7 +94,7 @@ Application is requried to see that logo design or app icon to visualize it in p
 - [ ] One color version
 - [ ] Size variations
 - [ ] Color variations 
-- [ ] Application / Mockup *..visualisation of design in production.*
+- [ ] Application / Mockup *..visualization of design in production.*
 - [ ] Download link *..with editable and ready to use files.*
 - [ ] Appropriate information *..about used materials, cc licensing.*
 - [ ] Font in use information *..preferably with a link to source.*
@@ -137,7 +137,7 @@ Application is requried to see that logo design or app icon to visualize it in p
     
     - You didn't provided one color version of your logo design.
     - You didn't provided color alternatives of your logo design.
-    - You didn't provided neccesary files.
+    - You didn't provided necessary files.
     - Quality of your design does not meet Utopian's quality standards. It's not enough to be rewarded by Utopian.
     - ...
     
