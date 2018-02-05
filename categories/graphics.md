@@ -17,24 +17,6 @@ Graphic contributions,
 - Should have links/information for used materials -e.g., font, background images, mock-up files
 - ...
 
-
-## Rules
-- This category is meant only for graphics/videos/motion graphics that you have realised for an open source project.
-- The contribution must be a direct result of your own work. It is strictly prohibited to modify other people’s work/assets or use a template and claim it as yours.
-- T-shirts and merchandising are generally not valid contributions in Utopian.
-- You must include every possible detail in your contributions to verify the work is done by you.
-- A contribution must contain the final file of your work, sample of the work, applications of your work, comparison to the existing product, and benefits of your work to the project owner.
-- Graphics contributions can be delivered in .psd, .ai, .cdr or any other universally accepted file format except logo designs. Those must be delivered in a vector file (e.g. .eps/.svg/.pdf) for flexibility and scalability, and .png file format.
-- Logo design contributions must contain the actual logo (logomark/logotype), the logo in a form of an icon, logo variations in terms of size and colour (monochrome and full-colour versions). You can see some examples of good contributions here, here, and here.
-- Any text or fonts must be converted into shapes or “outlined”.
-- You must provide credit to all third-party images/assets you have used in your contribution and make sure that you have permission to use them for commercial use. (images, videos, fonts, 3D models etc.)
-- Intro videos are acceptable only if the project has already had an intro video before and your contributed video is of a better quality.
-- It is highly recommended that you promote your work to the project owner.
-- Banners, header images and other assets for use on social media platforms are not valid contributions at the moment.
-- Designs are preferred to be in a vector format unless the project owner specifies a different format.
-
-Not respecting the rules will either give you lower votes or your contribution won't be accepted.
-
 ## Format
 
 ### Process / Proof of work
@@ -86,7 +68,7 @@ Application is required to see that logo design or app icon to visualize it in p
 
 
 ## Checklist:
-- [ ] Check Project's Repository *..should be younger than 1 year old*
+- [ ] Check Project's Repository *..significantly active within the last year*
 - [ ] Information Text *..about project*
 - [ ] Detail Text *..about design purpose and process*
 - [ ] Benefits, Improvement Text *..comparison with existing design*
@@ -152,8 +134,6 @@ Application is required to see that logo design or app icon to visualize it in p
 Provide as much information as you can.
 Try to be helpful.
 Do not compare to other's works.
-Except plagiarism all the other rules count as soft rule, you should warn user about these for their first mistake. If it's keep recurring you should reject contribution.
-
 
 #### Requirements For Logo Contributions
 - One Color Version to see if logo-mark is powerful and noticeable enough even without any effects
