@@ -47,19 +47,12 @@ However, as soon as there's visual content included, it should contain only the 
 
 ### Issues on GitHub
 
-If the contributor is connected to GitHub, Utopian automatically posts approved bug reports in the repository's issue tracker. This is why it is so important to ensure the quality and correctness of each contribution. Many project owners will have their first contact with Utopian in their issue tracker on GitHub.
+Since the contributor needs to be connected to GitHub and Utopian automatically posts approved bug reports in the repository's issue tracker, it is important to ensure the quality, correctness and uniqueness of each contribution. Many project owners will have their first contact with Utopian in their issue tracker on GitHub.
 
-If the user files an issue on GitHub before the contribution on Utopian is approved, there will be a duplicate. In this case it's recommended to leave a comment below the issue with a link to the original issue that was created by the user. The user should be cleared up about this. 
+### Moderation Workflow
 
-### Checklist
+![Moderation Workflow](https://d.pics/i/QmSQLrhM4F8bpU3udPigE16g2yP9bMzoMvUGRTaFQj8q65)
 
-- [ ] Check if the bug was submitted before.
-- [ ] Try to reproduce the bug.
-- [ ] Check the format.
-- [ ] ...
-- [ ] ...
-- [ ] ...
+### Reproducing Bugs
 
-### Notes
-
-- What if issues on GitHub are disabled? 
+To make sure a bug report is valid, it is important to reproduce the bug if possible. It might not always be possible to reproduce a bug in a reasonable amount of time. In this case the bug report can still be accepted, if the report shows authentic visual proof of the bug.
