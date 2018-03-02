@@ -56,3 +56,5 @@ Since the contributor needs to be connected to GitHub and Utopian automatically 
 ### Reproducing Bugs
 
 To make sure a bug report is valid, it is important to reproduce the bug if possible. It might not always be possible to reproduce a bug in a reasonable amount of time. In this case the bug report can still be accepted, if the report shows authentic visual proof of the bug.
+
+However, thanks to the [partnership with Browserstack](https://steemit.com/@utopian-io/utopian-is-expanding-collaboration-with-browserstack-crowdin-disasterhack-and-more), we have access to a lot of different (remote-controlled) devices and operating systems to authentically check bug reports in different environments. Ask your Supervisor for the account credentials, visit https://www.browserstack.com, sign in and enjoy their awesome interface.
