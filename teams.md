@@ -1,70 +1,126 @@
-# This is a file containing all of our current teams, their specialisations as well as the supervisors handling them.
-The categories are in order of specialisation, but the order of supervisors is random. The main category is always first, and the sub-categories follow. Moderators are welcome to review other categories, to get enabled in them, they should contact a supervisor that supervises one of these categories (preferably as a main category).
+# Utopian team
 
-Every supervisor has got it's own, unique main category that is not shared with other supervisors, unless one of them is supervising the Lead-Team (see teams E and F).
+[Last updated 2018-07-06]
 
-# Management:
-The management is currently handled by **elear** with **arie.steem** & **espoem** as his overseers.
+This document lists the members of the Utopian moderation team including moderators, community managers and Utopian management team. Teams are listed according to the categories and community managers who oversee a particular category.
 
+## Management
 
-# Creative & Development:
+The management is currently handled by **espoem**.
 
-These teams require specialists to review them and should be split into as few categories as possible to avoid inconsistent reviews. As so, in these teams, no categories other than **Bug Hunting** repeats itself. 
+## Analysis
 
-## A
-#### Handled by espoem
-* Blog,
-* Analysis,
-* Copywriting;
+### Community Manager
 
-## B
-#### Handled by mkt
-* Development,
-* Documentation,
-* Bug Hunting;
+- abh12345
 
-## C
-#### Handled by podan.rj
-* Graphics;
+### Moderators
 
-## D
-#### Handled by knowledges
-* Suggestion,
-* Bug Hunting,
-* Visibility;
+- crokkon
+- eastmael
 
-# Language and How-Tos:
+## Blog
 
-Translations, Tutorials and Video-Tutorials make up the most of all contributions on utopian. As so, multiple teams are required to handle them in order to avoid massive downtimes. Also, as Tutorials and Video-Tutorials allow the users to contribute in their mother-tongue, it was important to match these categories to a team that already handles Translations.
+### Community Manager
 
-## E
-#### Handled by ruah
-* Translation - Lead Team;
+- roj
 
-## F
-#### Handled by jestemkioskiem
-* Translation,
-* Tutorial,
-* Video-Tutorial;
+### Moderators
 
-## G
-#### Handled by mcfarhat
-* Tutorial,
-* Video-Tutorial,
-* Translation;
+- kit.andres
 
-## H
-#### Handled by arie-steem
-* Video-Tutorial,
-* Tutorial,
-* Translation - Indonesian Translators;
+## Development
 
-## I 
-#### Handled by omeratagun
-* Translations - Turkish Translators;
+### Community Manager
 
-## J
-#### Handled by Deathwing
-* Video-Tutorial,
-* Tutorial;
+- amosbastian
 
+### Moderators
+
+- emrebeyler
+- gregory
+- codingdefined
+- helo
+- justyy
+
+## Graphics
+
+### Community Manager
+
+- andrejcibik
+
+### Moderators
+
+- baranpirincal
+- nilfanif
+- oups
+
+## Suggestions
+
+### Community Manager
+
+- knowledges
+- favcau
+
+### Moderators
+
+- tykee
+- samhamou
+- sinem006
+- syed umair
+- zoneboy
+
+## Tutorials
+
+### Community Manager
+
+- mcfarhat
+
+### Moderators
+
+- portugalcoin
+- yokunjon
+- codingdefined
+
+## Video Tutorials
+
+### Community Manager
+
+- buckydurddle
+
+### Moderators
+
+- yokunjon
+
+## Translations
+
+### Community Manager
+
+- rosatravels
+- jmromero
+
+### Moderators
+
+- moderators are part of the DaVinci group
+
+## Bug hunting
+
+### Community Manager
+
+- sachincool
+
+### Moderators
+
+- achiron
+- tobias-g
+- fego
+
+## Visibility
+
+### Community Manager
+
+- techslut
+
+### Moderators
+
+- accro
