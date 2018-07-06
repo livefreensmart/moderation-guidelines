@@ -7,9 +7,9 @@ Utopian came up with the concept of tipping post comments with two purposes in m
 - Providing extra income to moderators. While moderators earn points (and SBD) for their work, Utopian Tip came as an additional incentive for moderators to go the extra mile and write high quality comment to the post author, to earn an extra “tip”.
 - Enticing community engagement. In order to get more interaction from the community on utopian posts, we decided to open Utopian tip to all the community, so that any member would be able to receive a tip for a well written feedback on a post.
 
-Utopian tip is normally cast using a tool located at <https://tip.utopian.io> whereby users with proper permission will be able to login, provide a comment url, and tip it! The tip value is at 1% VP of @utopian-io account. At the time of writing this amounts to around 3+ SBD upvote, and varies according to STEEM/SBD price fluctuations.
+Utopian tip is normally cast using a tool located at <https://tip.utopian.io> whereby users with proper permission will be able to login, provide a comment url, and tip it! The tip value is at 1% VP of *utopian-io* account. At the time of writing this amounts to around 3+ SBD upvote, and varies according to STEEM/SBD price fluctuations.
 
-While only accessible to certain accounts, we recently introduced an additional feature which is a Mega tip, under the shape of a checkbox via that same tool above, and allows providing a much larger tip at 3% VP of the @utopian-io account.
+While only accessible to certain accounts, we recently introduced an additional feature which is a Mega tip, under the shape of a checkbox via that same tool above, and allows providing a much larger tip at 3% VP of the *utopian-io* account.
 
 ## When to cast a tip?
 
