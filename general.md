@@ -64,6 +64,12 @@ Sometimes, you may face a situation that a user who violated the Utopian policie
 
 In such cases, you should report the user to the Community Manager. We prepared a summary of general cases and violations a user can make and the duration of the penalty if they do so. More details on the ban policies and duration can be found in [here](bans.md).
 
+## Rewards
+
+Each moderator is rewarded for their work on a weekly basis. The reward is based on the number of reviewed contributions a moderator does and it is given in a form of an upvote.
+
+On top of that, CMs can give you additional tips for your detailed comments and interaction at the contribution posts. You can see [here](tips.md) examples and conditions of getting a tip.
+
 [ut-guidelines]: https://join.utopian.io/guidelines
 [ut-discord]: https://discord.gg/8E4pwuW
 [ut-review-page]: http://review.utopian.io
