@@ -27,9 +27,9 @@ The review sheet contains several columns to insert the required data.
 | URL | The Steemit URL of the post |
 | GitHub | The URL of the GitHub repository |
 | Score | Score on range [0, 100]. Use <http://review.utopian.io> to get the score |
-| Staff Picked | Flag to staff pick a contribution. For CMs only |
-| Staff Pick Date | The date of the staff pick. The format is in YYYY-MM-DD |
-| Staff Picked By | The Steem username of the CM who picked the contribution |
+| Staff Picked | Flag to staff pick a contribution. **CMs only** |
+| Staff Pick Date | The date of the staff pick. The format is in YYYY-MM-DD. **CMs only** |
+| Staff Picked By | The Steem username of the CM who picked the contribution. **CMs only** |
 | Voted | Flag whether a post was voted, pending, unvoted, etc. **Don't edit this cell** |
 | Voting | Calculated vote for the post. **Don't edit this cell** |
 
