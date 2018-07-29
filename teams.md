@@ -36,8 +36,9 @@ Also, the translations are outsourced to the DaVinci group, which you can find i
 | Analysis | crokkon, eastmael |
 | Blog | kit.andres |
 | Bug Hunting | achiron, tobias-g, fego |
-| Development | emrebeyler, gregory, codingdefined, helo, justyy |
+| Development | emrebeyler, gregory.latinier, codingdefined, helo, justyy |
 | Graphics | baranpirincal, nilfanif, oups |
+| Copywriting | --- |
 | Suggestions | tykee, samhamou, sinem006, syed umair, zoneboy |
 | Tutorials | portugalcoin, yokunjon, condingdefined |
 | Video Tutorials | yokunjon |
