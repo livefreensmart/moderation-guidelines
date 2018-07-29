@@ -62,11 +62,11 @@ If you see a contribution worth to be picked and rewarded with the highest vote,
 
 Sometimes, you may face a situation that a user who violated the Utopian policies and guidelines several times, they are rude to the moderation team and other members of the Utopian community.
 
-In such cases, you should report the user to the Community Manager. We prepared a summary of general cases and violations a user can make and the duration of the penalty if they do so. More details on the ban policies and duration can be found in [here](bans.md).
+In such cases, you should report the user to the Community Manager. We prepared a summary of general instances and violations a user can make and the duration of the penalty if they do so. More details on the ban policies and length can be found in [here](bans.md).
 
 ## Rewards
 
-Each moderator is rewarded for their work on a weekly basis. The reward is based on the number of reviewed contributions a moderator does and it is given in a form of an upvote.
+Each moderator is rewarded for their work on a weekly basis. The reward is based on the number of reviewed contributions a moderator does, and the moderator receives the reward in the form of an upvote.
 
 On top of that, CMs can give you additional tips for your detailed comments and interaction at the contribution posts. You can see [here](tips.md) examples and conditions of getting a tip.
 
