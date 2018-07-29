@@ -50,12 +50,19 @@ Score 0 should be given only in obvious cases:
 - the author violated Utopian policies or repeatedly violated the [guidelines][ut-guidelines] and ignored any feedback on improvement
 - it is evident that the submission is only for earning money; don't forget that money should not be the main reason to work on a project
 - the submission is of a very low quality that Utopian should not support
+- the submission was published by a banned user
 
 ### Staff Picks
 
 A staff picked contribution will get the highest vote possible in the category. Staff picks are the examples of outstanding contributions and posts submitted to Utopian.
 
 If you see a contribution worth to be picked and rewarded with the highest vote, **talk to the Community Manager before you fill the cells in the review sheet**. It is important. If you report a staff-pick-worth submission late, the contribution will not have a chance to get a higher reward.
+
+## Banned users
+
+Sometimes, you may face a situation that a user who violated the Utopian policies and guidelines several times, they are rude to the moderation team and other members of the Utopian community.
+
+In such cases, you should report the user to the Community Manager. We prepared a summary of general cases and violations a user can make and the duration of the penalty if they do so. More details on the ban policies and duration can be found in [here](bans.md).
 
 [ut-guidelines]: https://join.utopian.io/guidelines
 [ut-discord]: https://discord.gg/8E4pwuW
