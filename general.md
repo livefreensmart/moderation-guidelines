@@ -1,62 +1,75 @@
-### General Moderator Workflow and Rules
+# General Moderator Workflow and Guidelines
 
-#### General Rules
+Welcome here! This document aims to provide the most necessary steps for you to be on track while being a Utopian.io moderator.
 
-To get information about up-to date rules, please go to [Utopian Rules](https://utopian.io/rules) page and read. 
+## Policies and guidelines
 
-#### Moderation Workflow
+Don't forget to check Utopian [policies and category-specific guidelines][ut-guidelines] so that you are familiar with the updated version. If any point is not understandable, contact your team and your group leader, who can help you with understanding it. The easiest and fastest way is to communicate in the [Utopian Discord][ut-discord] server, where moderators have their channels dedicated to everything related to the moderation.
 
-- Go to [Review page](https://utopian.io/all/review) in Utopian.
-- Click the categories you want to review.
-- Pick the first unhandled post. (We encourage mods to review old posts first.)
+## Moderation Workflow
 
+All valid contributions are fetched by a script into a dedicated sheet for the team members to see quickly and can work with them. This sheet is used until a moderation panel is implemented in a Utopian frontend.
 
-Before reading and reviewing the post, add the contribution link to ```#i-am-on-it``` channel in our Discord Server.
+Access to this document is limited only to the Utopian team. Therefore, when you become a moderator, you will be given a link to this document, and you will need to ask for write permissions.
 
-<img src="https://i.hizliresim.com/POygGd.png">
+### The review sheet
 
-**Important**: That step is required for us to prevent race condition between moderators, reviewing the same contribution. Also, before starting review on a contribution, have a look to that channel if some other moderator working on it or not.
+Once you have access to the sheet, you will see several spreadsheets. The only spreadsheet that is important for your needs as a moderator is the first one (unless the order is changed :D) with the names **Unreviewed - {{ review_week }}**. The review week goes from Thursday to Thursday; the name is regularly adjusted to have the name of the current review week.
 
+![Unreviewed tab](img/unreviewed_sheet_name.png)
 
-#### Moderation Panel
+The review sheet contains several columns to insert the required data.
 
-<img src="https://i.hizliresim.com/jQ9oAL.png">
+| Column | Note |
+|-|-|
+| Moderator | The Steem username of the moderator |
+| Review Date | The date of the review done. The format is in YYYY-MM-DD |
+| URL | The Steemit URL of the post |
+| GitHub | The URL of the GitHub repository |
+| Score | Score on range [0, 100]. Use <http://review.utopian.io> to get the score |
+| Staff Picked | Flag to staff pick a contribution. **CMs only** |
+| Staff Pick Date | The date of the staff pick. The format is in YYYY-MM-DD. **CMs only** |
+| Staff Picked By | The Steem username of the CM who picked the contribution. **CMs only** |
+| Voted | Flag whether a post was voted, pending, unvoted, etc. **Don't edit this cell** |
+| Voting | Calculated vote for the post. **Don't edit this cell** |
 
-There are a small set of buttons for moderator in every post.
+![Review sheet](img/review_sheet_example.png)
 
-##### 1. Hide Forever
+You can see that the relevant cells for moderators are Moderator, Review Date, Score. You can skip other cells unless you see a glaring error with the data or missing pieces you could fill.
 
-You should do that if the contribution directly violates the rules and there is no room for any improvement about the content.
+### Scoring
 
-Examples:
+Every moderator is supposed to use a predefined questionnaire to lead the review. However, the quality questionnaire is only the minimum; it is essential to write a detailed and clear comment for contributors so that they can learn from mistakes and they can feel that their work is useful.
 
-- Fishing stories
-- Cooking recipes
-- Any contribution featuring closed source projects
+You should take the score from the [review page][ut-review-page]. If you see that the resulting score does not fit the actual quality and the provided work of the contributor, consult it with the Community Manager. Don't act on your own and don't change anything without CM knowing.
 
-Make sure to put a comment explaning why their contribution is not accepted.
+Score 0 should be given only in obvious cases:
 
-##### 1. Pending Review
+- the post is not relevant to the Utopian aim
+- the post is not about an open source project
+- the author violated Utopian policies or repeatedly violated the [guidelines][ut-guidelines] and ignored any feedback on improvement
+- it is evident that the submission is only for earning money; don't forget that money should not be the main reason to work on a project
+- the submission is of a very low quality that Utopian should not support
+- the submission was published by a banned user
 
-We use that button if contribution is not good enough to get an instant approval. However, if the contribution has a potential after changes and improvements from author, then we set the contribution to **pending** also inform the author about what can be done about the contribution.
+### Staff Picks
 
-**Example**
+A staff picked contribution will get the highest vote possible in the category. Staff picks are the examples of outstanding contributions and posts submitted to Utopian.
 
-<img src="https://i.hizliresim.com/YOYAaA.png">
+If you see a contribution worth to be picked and rewarded with the highest vote, **talk to the Community Manager before you fill the cells in the review sheet**. It is important. If you report a staff-pick-worth submission late, the contribution will not have a chance to get a higher reward.
 
-**Note**: After pending the review, make sure you edit your entry on #i-am-on-it channel in our Discord. Edit the entry includes the contribution, add a *"pending"* word to the beginning.
+## Banned users
 
-**Note**: Authors have 48 hours to fix/improve their posts. If they don't do anything in 48 hours, you can hide the contribution.
+Sometimes, you may face a situation that a user who violated the Utopian policies and guidelines several times, they are rude to the moderation team and other members of the Utopian community.
 
-<img src="https://i.hizliresim.com/a1V6A7.png">
+In such cases, you should report the user to the Community Manager. We prepared a summary of general instances and violations a user can make and the duration of the penalty if they do so. More details on the ban policies and length can be found in [here](bans.md).
 
-##### 3. Approve
+## Rewards
 
-If the contribution meets the criterias for an approval, just click that button. After the approval, find your entry in ```#i-am-on-it``` channel and remove it.
+Each moderator is rewarded for their work on a weekly basis. The reward is based on the number of reviewed contributions a moderator does, and the moderator receives the reward in the form of an upvote.
 
-This channel should be clear and only store the contributions we're dealing actively.
+On top of that, CMs can give you additional tips for your detailed comments and interaction at the contribution posts. You can see [here](tips.md) examples and conditions of getting a tip.
 
-
-
-
-
+[ut-guidelines]: https://join.utopian.io/guidelines
+[ut-discord]: https://discord.gg/8E4pwuW
+[ut-review-page]: http://review.utopian.io
