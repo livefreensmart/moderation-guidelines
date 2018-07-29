@@ -60,8 +60,8 @@ Tags that are used for task requests are similar to contributions with a minor d
 | Graphics | task-graphics |
 | Suggestions | --- |
 | Translations | --- |
-| Tutorials | tutorials |
-| Video Tutorials | video-tutorials |
+| Tutorials | --- |
+| Video Tutorials | --- |
 | Visibility | task-social |
 
 You can read more about task requests in [here](categories/task-requests.md).
