@@ -1,6 +1,6 @@
 # Utopian team
 
-[Last updated 2018-07-29]
+[Last updated 2018-09-03]
 
 This document lists the members of the Utopian moderation team including moderators, community managers and Utopian management team. Teams are listed according to the categories and community managers who oversee a particular category.
 
@@ -14,7 +14,7 @@ The management of the Utopian team is currently handled by **espoem**. You can c
 |-|-|
 | abh12345 | Analysis |
 | roj | Blog |
-| --- | Copywriting |
+| jmromero | Copywriting |
 | amosbastian | Development |
 | ms10398 | Documentation |
 | andrejcibik | Graphics |
@@ -33,17 +33,39 @@ Also, the translations are outsourced to the DaVinci group, which you can find i
 
 | Category | Moderators |
 |-|-|
-| Analysis | crokkon, eastmael |
-| Blog | kit.andres |
+| Analysis | crokkon |
+| Blog | kit.andres, didic |
 | Bug Hunting | achiron, tobias-g, fego |
-| Development | emrebeyler, gregory.latinier, codingdefined, helo, justyy |
+| Development | emrebeyler, codingdefined, helo, justyy |
 | Graphics | baranpirincal, nilfanif, oups |
 | Copywriting | --- |
 | Suggestions | tykee, samhamou, sinem006, syed umair, zoneboy |
 | Tutorials | portugalcoin, yokunjon, condingdefined |
 | Video Tutorials | yokunjon |
-| Visibility | accro |
+| Visibility | accro, didic |
 
-In addition to the list of moderators included here, there are also moderators in the DaVinci group.
+### Translations
+
+| Moderator | Language |
+|-|-|
+| dr-frankenstein | Arabic |
+| libanista | Arabic |
+| aafeng | Chinese |
+| sunray | Chinese |
+| misslasvegas | Dutch |
+| roxane | French |
+| egotheist | German |
+| dimitrisp | Greek |
+| ruth-girl | Greek |
+| leurbanexplorer | Hebrew |
+| mcassani | Italian |
+| jestemkioskiem | Polish |
+| villaincandle | Polish |
+| phbr | Portuguese |
+| scienceangel | Serbian |
+| fbslo | Slovenian |
+| alejohannes | Spanish |
+| marugy99 | Spanish |
+| carlpei | Vietnamese |
 
 [dv-discord]: https://discordapp.com/invite/vMGmDSm
